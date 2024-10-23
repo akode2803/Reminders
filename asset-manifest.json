@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Reminders/static/css/main.e1e2cbea.css",
+    "main.js": "/Reminders/static/js/main.492a1fa2.js",
+    "static/media/bubble2.jpg": "/Reminders/static/media/bubble2.3f2e065d1b8b0249b290.jpg",
+    "index.html": "/Reminders/index.html",
+    "main.e1e2cbea.css.map": "/Reminders/static/css/main.e1e2cbea.css.map",
+    "main.492a1fa2.js.map": "/Reminders/static/js/main.492a1fa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e2cbea.css",
+    "static/js/main.492a1fa2.js"
+  ]
+}
